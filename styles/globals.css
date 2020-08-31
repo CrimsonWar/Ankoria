@@ -25,6 +25,9 @@ p{
   clear:both;
   margin:.2em 0
 }
+summary{
+  font-weight:800
+}
 .container{
   max-width:100%;
   min-width: width 500px;;

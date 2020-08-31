@@ -12,7 +12,9 @@ export default function NavBar() {
             <Link href='/content/pantheon'>
                 <a className='btn btn-5'>The Pantheon</a>
             </Link>
-            <a className='btn btn-5'>Player Options</a>
+            <Link href='/content/player-options'>
+                <a className='btn btn-5'>Player Options</a>
+            </Link>
             <a className='btn btn-5'>The Nations</a>
         </nav>
     );

@@ -5,8 +5,9 @@ export default function Pantheon() {
     return (
         <div className='container dark'>
             <Head>
-                <title>The Ankoria Setting - Definition</title>
+                <title>The Ankoria Setting - Pantheon</title>
                 <link rel="icon" href="/favicon.ico" />
+                <meta name="viewport" content="width=device-width, initial-scale=1.0"></meta>
             </Head>
 
             <main>
@@ -38,7 +39,7 @@ export default function Pantheon() {
                                     <li>Depiction: Lizardfolk Reaper</li>
                                     <li>Beliefs: Everything must die one day, and the Dead should stay Dead</li>
                                     <li>Domains for Clerics: Trickery, Grave</li>
-                                    <li>Notes:</li>
+                                    <li>Notes: The Church of Nox provides the service of Resurection and Reincarnation.</li>
                                 </ul>
                             </div>
                         </div>
@@ -104,7 +105,7 @@ export default function Pantheon() {
                                 <ul>
                                     <li>God of War, Slaughter and Sacrifice</li>
                                     <li>Depiction: Orc Barbarian</li>
-                                    <li>Beliefs: Kill of be Killed, There are no Innocents in War</li>
+                                    <li>Beliefs: Kill or be Killed, There are no Innocents in War</li>
                                     <li>Domains for Clerics: War, Grave</li>
                                     <li>Notes: Twin of Rohon</li>
                                 </ul>

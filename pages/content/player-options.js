@@ -167,8 +167,8 @@ export default function PlayerOptions() {
                             <summary>Links to Online-Tools</summary>
                             <br/>
                             <ul>
-                                <li><a href='https://5e.tools/'>5E-Tools</a></li>
-                                <li><a href='https://www.dndbeyond.com/'>D&D Beyond</a></li>
+                                <li><a href='https://5e.tools/' target='_blank'>5E-Tools</a></li>
+                                <li><a href='https://www.dndbeyond.com/' target='_blank'>D&D Beyond</a></li>
                             </ul>
                         </details>
                         <br/>

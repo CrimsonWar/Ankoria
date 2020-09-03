@@ -57,6 +57,7 @@ export default function PlayerOptions() {
                             <summary>Used Abreviations in Races, Classes and Backgrounds</summary>
                             <br/>
                             <div>
+                                <h3>Books</h3>
                                 <ul>
                                     <li>Aquisitions Incorperated = AI</li>
                                     <li>Curse of Strahd = COS</li>
@@ -67,7 +68,7 @@ export default function PlayerOptions() {
                                     <li>Mordekeinen's Tome of Foes = MTF</li>
                                     <li>Mythic Odysseys of Theros = MOT</li>
                                     <li>Player's Handbook = PHB</li>
-                                    <li>Swordcoast Adventurer:s Guide = SCAG</li>
+                                    <li>Swordcoast Adventurer's Guide = SCAG</li>
                                     <li>Volo's Guide to Monsters = VGM</li>
                                 </ul>
                             </div>

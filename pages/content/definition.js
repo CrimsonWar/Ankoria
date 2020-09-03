@@ -33,18 +33,15 @@ return (
                 <h2>Description</h2>
                 <div>
                     <p className='text-container dark'>
-                        Ankoria is a World, that is built on the ruins of a long lost Empire,<br/>
-                        that spanned across the whole Continent. The Fall of the Empire brought<br/>
-                        great Devestation, but it also brought a new beginning. The Remnants of<br/>
-                        the Empire rebuilt and formed the Nations that thrive today. There is <br/>
-                        also the Lawless Wilds, where 'Might makes Right!'. Another gift from <br/>
-                        the Ashes is the high Concentration of magical Energy, which lead to <br/>
-                        discoveries, that made Magic a Commodity of everyday Life.<br/>
+                        Ankoria is a World, that is built on the ruins of a long lost Empire, that spanned across the whole<br/>
+                        Continent. The Fall of the Empire brought great Devestation, but it also brought a new beginning. <br/>
+                        The Remnants of the Empire rebuilt and formed the Nations that thrive today. There is also the <br/>
+                        Lawless Wilds, where it is 'Kill or be Killed'. Another gift from the Ashes is the high Concentration<br/>
+                        of magical Energy, which lead to discoveries, that made Magic a Commodity of everyday Life.<br/>
                         <br/>
-                        Heroes can rise from all walks of life. From the Urchin trying to survive<br/>
-                        in the streets of Horizon to a Prince trying to find more in life. <br/>
-                        They explore ancient ruins, unearth Artifacts or fight Evils that try to<br/> 
-                        establish Dominance.<br/>
+                        Heroes can rise from all walks of life. From the Urchin trying to survive in the streets of Horizon<br/> 
+                        to a Prince trying to find more in life. They explore ancient ruins, unearth Artifacts or fight Evils <br/>
+                        that try to establish Dominance.<br/>
                     </p>
                 </div>
                 

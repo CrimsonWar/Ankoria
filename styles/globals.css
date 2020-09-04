@@ -4,7 +4,7 @@
 .btn,.input-text:focus{
   outline:0
 }
-main{
+body{
   font-family:'Artifika', serif;
   padding:0;
   margin:0

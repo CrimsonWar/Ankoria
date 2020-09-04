@@ -7,6 +7,7 @@ export default function Pantheon() {
             <Head>
                 <title>The Ankoria Setting - Pantheon</title>
                 <link rel="icon" href="/favicon.ico" />
+                <link href="https://fonts.googleapis.com/css2?family=Artifika&display=swap" rel="stylesheet"></link>
                 <meta name="viewport" content="width=device-width, initial-scale=1.0"></meta>
             </Head>
 
@@ -18,7 +19,7 @@ export default function Pantheon() {
 
                     <div className='center-children sb'>
                         <div className='r-form'>
-                            <img src='/images/SunGodSymbol.png'></img>
+                            <img src='/images/SunGodSymbol.png' className='picPantheon'></img>
                             <div className='text-bold'>Gardon:</div>
                             <div>
                                 <ul>
@@ -31,7 +32,7 @@ export default function Pantheon() {
                             </div>
                         </div>
                         <div className='r-form'>
-                            <img src='/images/NoxSymbol.png'></img>
+                            <img src='/images/NoxSymbol.png' className='picPantheon'></img>
                             <div className='text-bold'>Nox:</div>
                             <div>
                                 <ul>
@@ -44,7 +45,7 @@ export default function Pantheon() {
                             </div>
                         </div>
                         <div className='r-form'>
-                            <img src='/images/RivielSymbol.png'></img>
+                            <img src='/images/RivielSymbol.png' className='picPantheon'></img>
                             <div className='text-bold'>Riviel:</div>
                             <div>
                                 <ul>
@@ -57,7 +58,7 @@ export default function Pantheon() {
                             </div>
                         </div>
                         <div className='r-form'>
-                            <img src='/images/WozSymbol.png'></img>
+                            <img src='/images/WozSymbol.png' className='picPantheon'></img>
                             <div className='text-bold'>Woz:</div>
                             <div>
                                 <ul>
@@ -73,7 +74,7 @@ export default function Pantheon() {
 
                     <div className='center-children sb'>
                         <div className='r-form'>
-                            <img src='/images/KorshimSymbol.png'></img>
+                            <img src='/images/KorshimSymbol.png' className='picPantheon'></img>
                             <div className='text-bold'>Korshim:</div>
                             <div>
                                 <ul>
@@ -86,7 +87,7 @@ export default function Pantheon() {
                             </div>
                         </div>
                         <div className='r-form'>
-                        <img src='/images/LiriaSymbol.png'></img>
+                        <img src='/images/LiriaSymbol.png' className='picPantheon'></img>
                             <div className='text-bold'>Liria:</div>
                             <div>
                                 <ul>
@@ -99,7 +100,7 @@ export default function Pantheon() {
                             </div>
                         </div>
                         <div className='r-form'>
-                            <img src='/images/DurremSymbol.png'></img>
+                            <img src='/images/DurremSymbol.png' className='picPantheon'></img>
                             <div className='text-bold'>Durrem:</div>
                             <div>
                                 <ul>
@@ -112,7 +113,7 @@ export default function Pantheon() {
                             </div>
                         </div>
                         <div className='r-form'>
-                            <img src='/images/RohonSymbol.png'></img>
+                            <img src='/images/RohonSymbol.png' className='picPantheon'></img>
                             <div className='text-bold'>Rohon:</div>
                             <div>
                                 <ul>

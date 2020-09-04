@@ -4,8 +4,8 @@
 .btn,.input-text:focus{
   outline:0
 }
-body{
-  font-family:"helvetica neue",helvetica,arial,sans-serif;
+main{
+  font-family:'Artifika', serif;
   padding:0;
   margin:0
 }
@@ -442,4 +442,7 @@ p.border{
 }
 .dark details:hover{
   border:1px solid #ddd;
+}
+.picPantheon{
+  width: 100%;
 }

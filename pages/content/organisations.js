@@ -50,9 +50,9 @@ return (
                             </li>
                             <li><span className='text-bold'>The Martial Wastes</span><ul>
                                     <li>Capital: Ashdrift</li>
-                                    <li>o Government: Grandchief</li>
-                                    <li>o Type of Government: Chiefdom</li>
-                                    <li>o Races, that are more common here: Orc, Goblinoid, Centaur, Warforged, Fire Genasi, Kobold</li>
+                                    <li>Government: Grandchief</li>
+                                    <li>Type of Government: Chiefdom</li>
+                                    <li>Races, that are more common here: Orc, Goblinoid, Centaur, Warforged, Fire Genasi, Kobold</li>
                                 </ul>
                             </li>
                             <li><span className='text-bold'>The Tribes of the Frozen Lands</span><ul>

@@ -59,7 +59,7 @@ return (
                                     <li>Capital: Whiteridge</li>
                                     <li>Government: Representatives of the Clans</li>
                                     <li>Type of Government: Tribalism with Council</li>
-                                    <li>Races, that are more common here: Goliath, Dwarf, Dragonborn, Bugbear</li>
+                                    <li>Races, that are more common here: Goliath, Dwarf, Dragonborn, Bugbear, Shifter</li>
                                 </ul>
                             </li>
                             <li><span className='text-bold'>The Magocratic Empire</span><ul>
@@ -73,7 +73,7 @@ return (
                                     <li>Capital: Greendale</li>
                                     <li>Government: two Kings of the Houses Bythewood and Rosehammer,</li>
                                     <li>Type of Government: Diarchy</li>
-                                    <li>Races, that are more common here: Elf, Firbolg, Centaur, Satyr, Minotaur, Halfling</li>
+                                    <li>Races, that are more common here: Elf, Firbolg, Centaur, Satyr, Minotaur, Halfling, Shifter</li>
                                 </ul>
                             </li>
                         </ul>

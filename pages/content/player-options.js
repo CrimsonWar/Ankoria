@@ -70,6 +70,7 @@ export default function PlayerOptions() {
                                     <li>Mythic Odysseys of Theros = MOT</li>
                                     <li>Player's Handbook = PHB</li>
                                     <li>Swordcoast Adventurer's Guide = SCAG</li>
+                                    <li>Tortle Package = TP</li>
                                     <li>Volo's Guide to Monsters = VGM</li>
                                 </ul>
                             </div>
@@ -107,6 +108,7 @@ export default function PlayerOptions() {
                                 <li>Shifter (ERLW)</li>
                                 <li>Tabaxi (VGM)</li>
                                 <li>Tiefling (PHB+MTF)</li>
+                                <li>Tortle (TP)</li>
                                 <li>Triton (MOT)</li>
                                 <li>Warforged (ERLW)</li>
                             </ul>

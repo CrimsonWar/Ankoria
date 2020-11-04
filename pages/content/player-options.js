@@ -140,6 +140,7 @@ export default function PlayerOptions() {
                                 <li>Homebrew:<br/>
                                     <ul>
                                         <li>Sculpter (<a href='https://www.dmsguild.com/product/207218/OAP-The-Sculptor-Class' target='_blank'>Ross Leiser DMsGuild</a>)</li>
+                                        <li>Bloodhunter(<a href='https://www.dndbeyond.com/classes/blood-hunter' target='_blank'>DnDBeyond</a></li>
                                     </ul>
                                 </li>
                             </ul>

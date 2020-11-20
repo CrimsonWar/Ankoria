@@ -70,6 +70,7 @@ export default function PlayerOptions() {
                                     <li>Mythic Odysseys of Theros = MOT</li>
                                     <li>Player's Handbook = PHB</li>
                                     <li>Swordcoast Adventurer's Guide = SCAG</li>
+                                    <li>Tasha's Cauldron of Everything = TCoE</li>
                                     <li>Tortle Package = TP</li>
                                     <li>Volo's Guide to Monsters = VGM</li>
                                 </ul>
@@ -112,6 +113,8 @@ export default function PlayerOptions() {
                                 <li>Triton (MOT)</li>
                                 <li>Warforged (ERLW)</li>
                             </ul>
+                            <p className='text-bold'>The Customized Origin Rules from TCoE ARE Allowed! If you want to<br/>
+                            use the Custom Lineage Template talk to the DM FIRST!</p>
                         </details>
 
                         <br/>
@@ -121,7 +124,7 @@ export default function PlayerOptions() {
                             <ul>
                                 <li>Official Books:<br/>
                                     <ul>
-                                        <li>Artificer (ERLW)</li>
+                                        <li>Artificer (ERLW/TCoE)</li>
                                         <li>Barbarian</li>
                                         <li>Bard</li>
                                         <li>Cleric</li>
@@ -135,7 +138,7 @@ export default function PlayerOptions() {
                                         <li>Warlock</li>
                                         <li>Wizard</li>
                                     </ul>
-                                    <span className='text-bold' >Subclasses from XGE, PHB, ERLW, EGW and MOT are allowed.</span>
+                                    <span className='text-bold' >Subclasses from XGE, PHB, ERLW, MOT, EGW and TCoE are allowed.</span>
                                 </li>
                                 <li>Homebrew:<br/>
                                     <ul>

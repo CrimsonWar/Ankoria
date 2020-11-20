@@ -39,7 +39,7 @@ export default function Pantheon() {
                                     <li>God of Death and the Moon</li>
                                     <li>Depiction: Lizardfolk Reaper</li>
                                     <li>Beliefs: Everything must die one day, and the Dead should stay Dead</li>
-                                    <li>Domains for Clerics: Trickery, Grave</li>
+                                    <li>Domains for Clerics: Trickery, Grave, Twilight</li>
                                     <li>Notes: The Church of Nox provides the service of Resurection and Reincarnation.</li>
                                 </ul>
                             </div>
@@ -52,7 +52,7 @@ export default function Pantheon() {
                                     <li>God of Nature and Storms</li>
                                     <li>Depiction: Minotaur with golden horns</li>
                                     <li>Beliefs: Nature creates but also destroys, Nature will Prevail</li>
-                                    <li>Domains for Clerics: Nature, Tempest</li>
+                                    <li>Domains for Clerics: Nature, Tempest, Peace</li>
                                     <li>Notes:</li>
                                 </ul>
                             </div>
@@ -65,7 +65,7 @@ export default function Pantheon() {
                                     <li>God of Magic and Lore</li>
                                     <li>Depiction: Human in gray robes and always a book in hand</li>
                                     <li>Beliefs: Knowledge is Power and Power should be shared</li>
-                                    <li>Domains for Clerics: Knowledge</li>
+                                    <li>Domains for Clerics: Knowledge, Order</li>
                                     <li>Notes: Book of destiny was gifted by Korshim</li>
                                 </ul>
                             </div>
@@ -81,7 +81,7 @@ export default function Pantheon() {
                                     <li>God of Crafting, Clockwork and Time</li>
                                     <li>Depiction: Constructed Halfdragon</li>
                                     <li>Beliefs: If you create something, it will take time, it will take effort, but in the end it will be Perfect</li>
-                                    <li>Domains for Clerics: Knowledge, Forge</li>
+                                    <li>Domains for Clerics: Knowledge, Forge, Order</li>
                                     <li>Notes: Crafted by Woz and Liria</li>
                                 </ul>
                             </div>
@@ -94,7 +94,7 @@ export default function Pantheon() {
                                     <li>God of Art, Beauty and Love</li>
                                     <li>Depiction: Elven Woman surounded by songbirds</li>
                                     <li>Beliefs: Beauty can be found in every little thing, but Passion is the most beautiful thing in this world</li>
-                                    <li>Domains for Clerics: Nature, Life</li>
+                                    <li>Domains for Clerics: Nature, Life, Peace</li>
                                     <li>Notes: </li>
                                 </ul>
                             </div>
@@ -120,7 +120,7 @@ export default function Pantheon() {
                                     <li>God of War, Honor and Justice</li>
                                     <li>Depiction: Orc Paladin</li>
                                     <li>Beliefs: Never lose your ideals in the Heat of Battle, Fight with Honor and die with Glory for the Innocent</li>
-                                    <li>Domains for Clerics: War, Grave</li>
+                                    <li>Domains for Clerics: War, Grave, Order</li>
                                     <li>Notes: Twin of Durrem</li>
                                 </ul>
                             </div>

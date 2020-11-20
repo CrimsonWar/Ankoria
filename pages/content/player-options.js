@@ -26,7 +26,7 @@ export default function PlayerOptions() {
                                 <li>Player-Characters get a Feat at level 1</li>
                                 <li>Player-Character get to choose one <span className='text-bold'>COMMON</span> Magic-Item in addition to their Starting-Equipment from the Dungeon Master's Guide,
                                 Xanathar's Guide to Everything, Tasha's Cauldron of Everything, Eberron: Rising from the last War, or Explorer's Guide to Wildemount.<br/>
-                                <span className='text-bold'>(Weapons or Armor replace Weapons or Armor in Starting-Equipment)</span></li>
+                                <span className='text-bold'>(Weapons or Armor replace Weapons or Armor in Starting-Equipment, Excluded from this Choice are Potions and Scrolls)</span></li>
                             </ul>
                         </details>
 

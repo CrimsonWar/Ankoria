@@ -95,8 +95,8 @@ export default function PlayerOptions() {
                                 <li>Gnome (PHB+ERLW)</li>
                                 <li>Goblin (ERLW)</li>
                                 <li>Goliath (VGM)</li>
-                                <li>Halfelf (PHB+ERLW)</li>
-                                <li>Halforc (PHB+ERLW)</li>
+                                <li>Half-Elf (PHB+ERLW)</li>
+                                <li>Half-Orc (PHB+ERLW)</li>
                                 <li>Halfling (PHB+EGW+ERLW)</li>
                                 <li>Hobgoblin (ERLW)</li>
                                 <li>Human (PHB+ERLW)</li>

@@ -109,6 +109,7 @@ export default function PlayerOptions() {
                                 <li>Satyr (MOT)</li>
                                 <li>Shifter (ERLW)</li>
                                 <li>Tabaxi (VGM)</li>
+                                <li><a href='/Media/Thlakah.pdf' download>Thlakah</a></li>
                                 <li>Tiefling (PHB+MTF)</li>
                                 <li>Tortle (TP)</li>
                                 <li>Triton (MOT)</li>

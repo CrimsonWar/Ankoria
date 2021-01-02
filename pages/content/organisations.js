@@ -57,7 +57,7 @@ return (
                             </li>
                             <li><span className='text-bold'>The Tribes of the Frozen Lands</span><ul>
                                     <li>Capital: Whiteridge</li>
-                                    <li>Government: Representatives of the Clans</li>
+                                    <li>Government: Representatives of the Tribes</li>
                                     <li>Type of Government: Tribalism with Council</li>
                                     <li>Races, that are more common here: Goliath, Dwarf, Dragonborn, Bugbear, Shifter</li>
                                 </ul>

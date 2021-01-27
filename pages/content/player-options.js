@@ -109,7 +109,7 @@ export default function PlayerOptions() {
                                 <li>Satyr (MOT)</li>
                                 <li>Shifter (ERLW)</li>
                                 <li>Tabaxi (VGM)</li>
-                                <li><a href='https://homebrewery.naturalcrit.com/share/W1GV_adXEtH8' target='_blank'>Thlakah(by Joshua Taylor)</a></li>
+                                <li><a href='https://homebrewery.naturalcrit.com/share/W1GV_adXEtH8' target='_blank'>Tlakah(by Joshua Taylor)</a></li>
                                 <li>Tiefling (PHB+MTF)</li>
                                 <li>Tortle (TP)</li>
                                 <li>Triton (MOT)</li>

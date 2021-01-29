@@ -19,19 +19,23 @@ export default function Home() {
 
           <h2>Welcome</h2>
 
-          <p>
-            This Page is an index of the Ankoria Setting. The Setting is intended for the 5th Edition of Dungeons & Dragons.<br/>
-            On this Page you will find 
+          <div className="align-left">
+            <p>
+              This Page is an index of the Ankoria Setting. The Setting is intended for the 5th Edition of Dungeons & Dragons.<br/>
+              On this Page you will find
+            </p>
             <ul>
               <li>the Definition</li>
               <li>the Player Options</li>
               <li>the Pantheon</li>
               <li>the Nations</li>
             </ul>
-            of the Setting.
-            <br/>
-            <br/>
-          </p>
+            <p>
+              of the Setting.
+              <br/>
+              <br/>
+            </p>
+          </div>
 
           <img className='rounded-2' src='/images/map.jpg' height='768px' width='1024px'></img>
           <br/>

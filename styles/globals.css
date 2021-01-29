@@ -53,6 +53,9 @@ summary{
   flex-direction:column;
   align-items:center
 }
+.align-left {
+  align-items:left;
+}
 .text-small{
   font-size:.9em
 }
@@ -169,9 +172,6 @@ summary{
 }
 p.border{
   padding:0
-}
-:not(p.border){
-  padding:2em
 }
 .circle{
   border-radius:50%
@@ -313,7 +313,7 @@ p.border{
   border:1px solid #ddd;
   border-radius:3px;
   padding:2em;
-  width:400px;
+  width:25%;
   flex-direction:column;
   flex-wrap:wrap;
   box-shadow:0 0 15px -2px #eee

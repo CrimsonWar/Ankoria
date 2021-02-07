@@ -83,7 +83,6 @@ export default function PlayerOptions() {
                             <summary>Allowed Races</summary>
                             <br/>
                             <ul>
-                                <li>Aarakocra (EEPC)</li>
                                 <li>Aasimar (VGM)</li>
                                 <li>Bugbear (ERLW)</li>
                                 <li>Centaur (MOT)</li>

@@ -72,6 +72,7 @@ export default function PlayerOptions() {
                                     <li>Player's Handbook = PHB</li>
                                     <li>Swordcoast Adventurer's Guide = SCAG</li>
                                     <li>Tasha's Cauldron of Everything = TCoE</li>
+                                    <li>Tomb of Annihilation = ToA</li>
                                     <li>Tortle Package = TP</li>
                                     <li>Volo's Guide to Monsters = VGM</li>
                                 </ul>
@@ -163,6 +164,7 @@ export default function PlayerOptions() {
                                 <li><span className='text-bold'>EGW: </span>Grinner, Revelry Pirate(Sailor), Volstrucker Agent</li>
                                 <li><span className='text-bold'>GOS: </span>Fisher, Marine, Shipwright, Smuggler</li>
                                 <li><span className='text-bold'>MOT: </span>Athlete</li>
+                                <li><span className='text-bold'>ToA: </span>Anthropologist, Archaeologist</li>
                                 <li><span className='text-bold'>PHB: </span>Acolyte, Charlatan, Criminal/Spy, Entertainer,
                                 <br/>Folk Hero, Guild Artisan/Merchant, Noble/Knight,
                                 <br/>Outlander, Sage, Soldier, Urchin

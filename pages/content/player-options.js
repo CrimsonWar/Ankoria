@@ -62,7 +62,6 @@ export default function PlayerOptions() {
                                 <h3>Books</h3>
                                 <ul>
                                     <li>Aquisitions Incorperated = AI</li>
-                                    <li>Curse of Strahd = COS</li>
                                     <li>Eberron: Rising from the Last War = ERLW</li>
                                     <li>Elemental Evil Player's Companion = EEPC</li>
                                     <li>Explorer's Guide to Wildemount = EGW</li>
@@ -75,6 +74,7 @@ export default function PlayerOptions() {
                                     <li>Tomb of Annihilation = ToA</li>
                                     <li>Tortle Package = TP</li>
                                     <li>Volo's Guide to Monsters = VGM</li>
+                                    <li>Van Richten's Guide to Ravencraft = VRG</li>
                                 </ul>
                             </div>
                         </details>
@@ -104,6 +104,7 @@ export default function PlayerOptions() {
                                 <li>Kalashtar (ERLW)</li>
                                 <li>Kenku (VGM)</li>
                                 <li>Kobold (VGM)</li>
+                                <li>Lineages(VRG)</li>
                                 <li>Lizardfolk (VGM)</li>
                                 <li>Minotaur (MOT)</li>
                                 <li>Orc (ERLW)</li>
@@ -141,7 +142,7 @@ export default function PlayerOptions() {
                                         <li>Warlock</li>
                                         <li>Wizard</li>
                                     </ul>
-                                    <span className='text-bold' >Subclasses from XGE, PHB, ERLW, MOT, EGW and TCoE are allowed.</span>
+                                    <span className='text-bold' >Subclasses from XGE, PHB, ERLW, MOT, EGW, VRG and TCoE are allowed.</span>
                                 </li>
                                 <li>Homebrew:<br/>
                                     <ul>
@@ -159,7 +160,6 @@ export default function PlayerOptions() {
                             <br/>
                             <ul>
                                 <li><span className='text-bold'>AI: </span>Failed Merchant, Gambler, Plaintiff</li>
-                                <li><span className='text-bold'>COS: </span>Haunted One</li>
                                 <li><span className='text-bold'>ERLW: </span>House Agent (In this setting Agent of a Dragonmarked Clan)</li>
                                 <li><span className='text-bold'>EGW: </span>Grinner, Revelry Pirate(Sailor), Volstrucker Agent</li>
                                 <li><span className='text-bold'>GOS: </span>Fisher, Marine, Shipwright, Smuggler</li>
@@ -172,6 +172,7 @@ export default function PlayerOptions() {
                                 <li><span className='text-bold'>SCAG: </span>City Watch/Investigator, Courtier, Far Traveler,
                                 <br/>Inheritor, Mercenary Veteran, Urban Bounty Hunter
                                 </li>
+                                <li>VRG: Investigator, Haunted One</li>
                             </ul>
                         </details>
 

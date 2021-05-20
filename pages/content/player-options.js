@@ -172,7 +172,7 @@ export default function PlayerOptions() {
                                 <li><span className='text-bold'>SCAG: </span>City Watch/Investigator, Courtier, Far Traveler,
                                 <br/>Inheritor, Mercenary Veteran, Urban Bounty Hunter
                                 </li>
-                                <li>VRG: Investigator, Haunted One</li>
+                                <li><span className='text-bold'>VRG: </span>Investigator, Haunted One</li>
                             </ul>
                         </details>
 

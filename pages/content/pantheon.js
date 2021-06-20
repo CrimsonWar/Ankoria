@@ -27,7 +27,7 @@ export default function Pantheon() {
                                     <li>Depiction: Clestial Lion</li>
                                     <li>Beliefs: The Sun brings Life, that Life has to be protected</li>
                                     <li>Domains for Clerics: Life, Light</li>
-                                    <li>Notes:</li>
+                                    <li>Notes: The Church of Nox provides the service of Reincarnation.</li>
                                 </ul>
                             </div>
                         </div>
@@ -40,7 +40,7 @@ export default function Pantheon() {
                                     <li>Depiction: Lizardfolk Reaper</li>
                                     <li>Beliefs: Everything must die one day, and the Dead should stay Dead</li>
                                     <li>Domains for Clerics: Trickery, Grave, Twilight</li>
-                                    <li>Notes: The Church of Nox provides the service of Resurection and Reincarnation.</li>
+                                    <li>Notes:</li>
                                 </ul>
                             </div>
                         </div>

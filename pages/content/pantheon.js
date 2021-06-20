@@ -27,7 +27,7 @@ export default function Pantheon() {
                                     <li>Depiction: Clestial Lion</li>
                                     <li>Beliefs: The Sun brings Life, that Life has to be protected</li>
                                     <li>Domains for Clerics: Life, Light</li>
-                                    <li>Notes: The Church of Nox provides the service of Reincarnation.</li>
+                                    <li>Notes: The Church of Gardon provides the service of Reincarnation.</li>
                                 </ul>
                             </div>
                         </div>

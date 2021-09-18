@@ -75,6 +75,7 @@ export default function PlayerOptions() {
                                     <li>Tortle Package = TP</li>
                                     <li>Volo's Guide to Monsters = VGM</li>
                                     <li>Van Richten's Guide to Ravencraft = VRG</li>
+                                    <li>The Wild Beyond the Witchlight = WBWL</li>
                                 </ul>
                             </div>
                         </details>
@@ -99,6 +100,7 @@ export default function PlayerOptions() {
                                 <li>Half-Elf (PHB+ERLW)</li>
                                 <li>Half-Orc (PHB+ERLW)</li>
                                 <li>Halfling (PHB+EGW+ERLW)</li>
+                                <li>Harengon (WBWL)</li>
                                 <li>Hobgoblin (ERLW)</li>
                                 <li>Human (PHB+ERLW)</li>
                                 <li>Kalashtar (ERLW)</li>

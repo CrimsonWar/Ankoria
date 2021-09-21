@@ -92,6 +92,7 @@ export default function PlayerOptions() {
                                 <li>Dragonborn (EGW)</li>
                                 <li>Dwarf (PHB+ERLW)</li>
                                 <li>Elf (PHB+ERLW+EGW)</li>
+                                <li>Fairy (WBWL)</li>
                                 <li>Firbolg (VGM)</li>
                                 <li>Genasi (EEPC)</li>
                                 <li>Gnome (PHB+ERLW)</li>
@@ -175,6 +176,7 @@ export default function PlayerOptions() {
                                 <br/>Inheritor, Mercenary Veteran, Urban Bounty Hunter
                                 </li>
                                 <li><span className='text-bold'>VRG: </span>Investigator, Haunted One</li>
+                                <li><span className='text-bold'>WBWL: </span>Feylost, Witchlight Hand</li>
                             </ul>
                         </details>
 

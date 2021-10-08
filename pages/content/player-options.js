@@ -120,6 +120,17 @@ export default function PlayerOptions() {
                                 <li>Triton (MOT)</li>
                                 <li>Warforged (ERLW)</li>
                             </ul>
+                            <br/>
+                            <p className='text-bold'>UA-Content:</p>
+                            <ul>
+                                <li>Astral-Elf</li>
+                                <li>Autognome</li>
+                                <li>Giff</li>
+                                <li>Hadozee</li>
+                                <li>Plasmoid</li>
+                                <li>Thri-Kreen</li>
+                            </ul>
+                            <a href='https://1drv.ms/u/s!AhAlTgYDD1bR-HyKM_eUOwCHCjbR?e=SbcYFB' target='_blank'>Unearthed Arcana Archive</a>
                             <p className='text-bold'>The Customized Origin Rules from TCoE ARE Allowed! If you want to<br/>
                             use the Custom Lineage Template talk to the DM FIRST!</p>
                         </details>

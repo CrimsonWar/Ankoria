@@ -65,6 +65,7 @@ export default function PlayerOptions() {
                                     <li>Eberron: Rising from the Last War = ERLW</li>
                                     <li>Elemental Evil Player's Companion = EEPC</li>
                                     <li>Explorer's Guide to Wildemount = EGW</li>
+                                    <li>Fizban's Treasury of Dragons = FTD</li>
                                     <li>Ghosts of Saltmarsh = GOS</li>
                                     <li>Mordekeinen's Tome of Foes = MTF</li>
                                     <li>Mythic Odysseys of Theros = MOT</li>
@@ -89,7 +90,7 @@ export default function PlayerOptions() {
                                 <li>Bugbear (ERLW)</li>
                                 <li>Centaur (MOT)</li>
                                 <li>Changeling (ERLW)</li>
-                                <li>Dragonborn (EGW)</li>
+                                <li>Dragonborn (EGW+FTD)</li>
                                 <li>Dwarf (PHB+ERLW)</li>
                                 <li>Elf (PHB+ERLW+EGW)</li>
                                 <li>Fairy (WBWL)</li>

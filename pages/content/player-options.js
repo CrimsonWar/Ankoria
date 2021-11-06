@@ -158,7 +158,7 @@ export default function PlayerOptions() {
                                         <li>Warlock</li>
                                         <li>Wizard</li>
                                     </ul>
-                                    <span className='text-bold' >Subclasses from XGE, PHB, ERLW, MOT, EGW, VRG and TCoE are allowed.</span>
+                                    <span className='text-bold' >Subclasses from XGE, PHB, ERLW, FTD, MOT, EGW, VRG and TCoE are allowed.</span>
                                 </li>
                                 <li>Homebrew:<br/>
                                     <ul>

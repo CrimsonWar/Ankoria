@@ -86,6 +86,7 @@ export default function PlayerOptions() {
                             <summary>Allowed Races</summary>
                             <br/>
                             <ul>
+                                <li>Aarakocra (EEPC) </li>
                                 <li>Aasimar (VGM)</li>
                                 <li>Bugbear (ERLW)</li>
                                 <li>Centaur (MOT)</li>
@@ -120,6 +121,7 @@ export default function PlayerOptions() {
                                 <li>Tortle (TP)</li>
                                 <li>Triton (MOT)</li>
                                 <li>Warforged (ERLW)</li>
+                                <li>Yuan-ti Pureblood (VGM)</li>
                             </ul>
                             <br/>
                             <p className='text-bold'>UA-Content:</p>

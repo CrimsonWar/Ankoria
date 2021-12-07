@@ -70,6 +70,7 @@ export default function PlayerOptions() {
                                     <li>Mordekeinen's Tome of Foes = MTF</li>
                                     <li>Mythic Odysseys of Theros = MOT</li>
                                     <li>Player's Handbook = PHB</li>
+                                    <li>Strixhaven: A Curriculum of Chaos = SACOC</li>
                                     <li>Swordcoast Adventurer's Guide = SCAG</li>
                                     <li>Tasha's Cauldron of Everything = TCoE</li>
                                     <li>Tomb of Annihilation = ToA</li>
@@ -113,6 +114,7 @@ export default function PlayerOptions() {
                                 <li>Lizardfolk (VGM)</li>
                                 <li>Minotaur (MOT)</li>
                                 <li>Orc (ERLW)</li>
+                                <li>Owlin (SACOC)</li>
                                 <li>Satyr (MOT)</li>
                                 <li>Shifter (ERLW)</li>
                                 <li>Tabaxi (VGM)</li>
@@ -186,6 +188,9 @@ export default function PlayerOptions() {
                                 <li><span className='text-bold'>PHB: </span>Acolyte, Charlatan, Criminal/Spy, Entertainer,
                                 <br/>Folk Hero, Guild Artisan/Merchant, Noble/Knight,
                                 <br/>Outlander, Sage, Soldier, Urchin
+                                </li>
+                                <li><span className='text-bold'>SACOC: </span>Lorehold Student, Prismari Student, Quandrix Student,
+                                <br/>Silverquill Student, Witherbloom Student
                                 </li>
                                 <li><span className='text-bold'>SCAG: </span>City Watch/Investigator, Courtier, Far Traveler,
                                 <br/>Inheritor, Mercenary Veteran, Urban Bounty Hunter

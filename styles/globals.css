@@ -221,6 +221,9 @@ p.border{
 .nav-end{
   justify-content:flex-end
 }
+.nav-start{
+  justify-content:flex-start
+}
 .nav ul{
   list-style-type:none;
   margin:0

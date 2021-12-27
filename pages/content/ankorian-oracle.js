@@ -1,7 +1,10 @@
 import Head from 'next/head'
 import Navbar from './navbar'
+import { getSortedPostsData } from '../../lib/articles'
+import Link from 'next/link'
+import Date from '../../components/date';
 
-export default function AnkorianOracle() {
+export default function AnkorianOracle({allArticlesData}) {
     return (
         <div className='container dark'>
             <Head>
@@ -16,10 +19,32 @@ export default function AnkorianOracle() {
                 <Navbar></Navbar>
 
                 <div className='dark stacked-center'>
-                    Here will be a Summary of reports about recent events in Ankoria.
+                    <ul>
+                        {allArticlesData.map(({ id, title, date, author }) => (
+                            <li key={id}>
+                                <Link href="./articles/[id]" as={`./articles/${id}`}>
+                                    <a>{title}</a>
+                                </Link>
+                                <br />
+                                <small>
+                                    <Date dateString={date}/> /
+                                    Author: {author}
+                                </small>
+                            </li>
+                        ))}
+                    </ul>
                 </div>
 
             </main>
         </div>
     );
 }
+
+export async function getStaticProps() {
+    const allArticlesData = getSortedPostsData();
+    return {
+      props: {
+        allArticlesData
+      },
+    }
+  }

@@ -18,6 +18,9 @@ export default function NavBar() {
             <Link href='/content/organisations'>
                 <a className='btn btn-5'>The Nations</a>
             </Link>
+            <Link href='/content/ankorian-oracle'>
+                <a className='btn btn-5'>The Oracle</a>
+            </Link>
         </nav>
     );
 }

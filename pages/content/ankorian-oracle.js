@@ -19,15 +19,16 @@ export default function AnkorianOracle({allArticlesData}) {
                 <Navbar></Navbar>
 
                 <div className='dark stacked-center'>
-                    <ul>
+                    <h2>Recent Events</h2>
+                    <ul className='no-bullets'>
                         {allArticlesData.map(({ id, title, date, author }) => (
-                            <li key={id}>
+                            <li key={id} className='article-border'>
                                 <Link href="./articles/[id]" as={`./articles/${id}`}>
-                                    <a>{title}</a>
+                                    <a className='btn'>{title}</a>
                                 </Link>
                                 <br />
                                 <small>
-                                    <Date dateString={date}/> /
+                                    <Date dateString={date}/> / 
                                     Author: {author}
                                 </small>
                             </li>

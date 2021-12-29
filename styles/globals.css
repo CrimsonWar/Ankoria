@@ -449,3 +449,16 @@ p.border{
 .picPantheon{
   width: 100%;
 }
+.no-bullets {
+  list-style-type: none; /* Remove bullets */
+  padding: 0; /* Remove padding */
+  margin: 0; /* Remove margins */
+  width: 50%;
+}
+.article-border{
+  border:3px solid #ddd;
+  border-radius:10px;
+  padding-top: 1px;
+  padding-bottom: 1px;
+  text-align: center;
+}

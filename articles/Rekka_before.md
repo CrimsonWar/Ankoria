@@ -1,6 +1,6 @@
 ---
 title: 'The Burning Knight'
-date: '2022-01-23'
+date: '2022-01-25'
 author: 'Byn`fy'
 ---
 

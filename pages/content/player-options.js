@@ -67,6 +67,7 @@ export default function PlayerOptions() {
                                     <li>Explorer's Guide to Wildemount = EGW</li>
                                     <li>Fizban's Treasury of Dragons = FTD</li>
                                     <li>Ghosts of Saltmarsh = GOS</li>
+                                    <li>Monsters of the Multiverse = MotM</li>
                                     <li>Mordekeinen's Tome of Foes = MTF</li>
                                     <li>Mythic Odysseys of Theros = MOT</li>
                                     <li>Player's Handbook = PHB</li>
@@ -87,43 +88,51 @@ export default function PlayerOptions() {
                             <summary>Allowed Races</summary>
                             <br/>
                             <ul>
-                                <li>Aarakocra (EEPC) </li>
-                                <li>Aasimar (VGM)</li>
-                                <li>Bugbear (ERLW)</li>
-                                <li>Centaur (MOT)</li>
-                                <li>Changeling (ERLW)</li>
+                                <li>Aarakocra (EEPC+MotM) </li>
+                                <li>Aasimar (VGM+MotM)</li>
+                                <li>Bugbear (ERLW+MotM)</li>
+                                <li>Centaur (MOT+MotM)</li>
+                                <li>Changeling (ERLW+MotM)</li>
                                 <li>Dragonborn (EGW+FTD)</li>
                                 <li>Dwarf (PHB+ERLW)</li>
+                                <li>Deep Gnome(MotM)</li>
+                                <li>Duergar(MotM)</li>
+                                <li>Eladrin(MotM)</li>
                                 <li>Elf (PHB+ERLW+EGW)</li>
-                                <li>Fairy (WBWL)</li>
-                                <li>Firbolg (VGM)</li>
-                                <li>Genasi (EEPC)</li>
+                                <li>Fairy (WBWL+MotM)</li>
+                                <li>Firbolg (VGM+MotM)</li>
+                                <li>Genasi (EEPC+MotM)</li>
+                                <li>Githyanki(MotM)</li>
+                                <li>Githzerai(MotM)</li>
                                 <li>Gnome (PHB+ERLW)</li>
-                                <li>Goblin (ERLW)</li>
-                                <li>Goliath (VGM)</li>
+                                <li>Goblin (ERLW+MotM)</li>
+                                <li>Goliath (VGM+MotM)</li>
                                 <li>Half-Elf (PHB+ERLW)</li>
                                 <li>Half-Orc (PHB+ERLW)</li>
                                 <li>Halfling (PHB+EGW+ERLW)</li>
-                                <li>Harengon (WBWL)</li>
-                                <li>Hobgoblin (ERLW)</li>
+                                <li>Harengon (WBWL+MotM)</li>
+                                <li>Hobgoblin (ERLW+MotM)</li>
                                 <li>Human (PHB+ERLW)</li>
                                 <li>Kalashtar (ERLW)</li>
-                                <li>Kenku (VGM)</li>
-                                <li>Kobold (VGM)</li>
+                                <li>Kenku (VGM+MotM)</li>
+                                <li>Kobold (VGM+MotM)</li>
                                 <li>Lineages(VRG)</li>
-                                <li>Lizardfolk (VGM)</li>
-                                <li>Minotaur (MOT)</li>
-                                <li>Orc (ERLW)</li>
+                                <li>Lizardfolk (VGM+MotM)</li>
+                                <li>Minotaur (MOT+MotM)</li>
+                                <li>Orc (ERLW+MotM)</li>
                                 <li>Owlin (SACOC)</li>
-                                <li>Satyr (MOT)</li>
-                                <li>Shifter (ERLW)</li>
-                                <li>Tabaxi (VGM)</li>
+                                <li>Satyr (MOT+MotM)</li>
+                                <li>Sea Elf(MotM)</li>
+                                <li>Shadar-kai(MotM)</li>
+                                <li>Shifter (ERLW+MotM)</li>
+                                <li>Tabaxi (VGM+MotM)</li>
                                 <li><a href='https://homebrewery.naturalcrit.com/share/W1GV_adXEtH8' target='_blank'>Tlakah(by Joshua Taylor)</a></li>
                                 <li>Tiefling (PHB+MTF)</li>
-                                <li>Tortle (TP)</li>
-                                <li>Triton (MOT)</li>
+                                <li>Tortle (TP+MotM)</li>
+                                <li>Triton (MOT+MotM)</li>
                                 <li>Warforged (ERLW)</li>
-                                <li>Yuan-ti Pureblood (VGM)</li>
+                                <li>Yuan-ti(MotM)</li>
+                                <li>Yuan-ti Pureblood(VGM)</li>
                             </ul>
                             <br/>
                             <p className='text-bold'>UA-Content:</p>
@@ -138,7 +147,8 @@ export default function PlayerOptions() {
                             <a href='https://1drv.ms/u/s!AhAlTgYDD1bR-HyKM_eUOwCHCjbR?e=SbcYFB' target='_blank'>Unearthed Arcana Archive</a>
                             <br/>
                             <p className='text-bold'>The Customized Origin Rules from TCoE ARE Allowed! If you want to<br/>
-                            use the Custom Lineage Template talk to the DM FIRST!</p>
+                            use the Custom Lineage Template talk to the DM FIRST!<br/>
+                            With MotM introducing reworked traits for multiple races, Legacy Content is still allowed in this setting!</p>
                         </details>
 
                         <br/>

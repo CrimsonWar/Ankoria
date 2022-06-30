@@ -179,6 +179,8 @@ export default function PlayerOptions() {
                                         <li>Sculpter (<a href='https://www.dmsguild.com/product/207218/OAP-The-Sculptor-Class' target='_blank'>Ross Leiser DMsGuild</a>)</li>
                                         <li>Bloodhunter(<a href='https://www.dndbeyond.com/classes/blood-hunter' target='_blank'>DnDBeyond</a>)</li>
                                         <li>Binder(<a href='https://www.drivethrurpg.com/product/318299/Complete-Binder' target='_blank'>Mage Hand Press</a>)</li>
+                                        <li>Evolutionist(Crystalpunk/Ask if the book is available)</li>
+                                        <li>Soulshaper(Crystalpunk/Ask if the book is available)</li>
                                     </ul>
                                 </li>
                             </ul>

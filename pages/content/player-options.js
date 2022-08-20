@@ -72,6 +72,7 @@ export default function PlayerOptions() {
                                     <li>Mythic Odysseys of Theros = MOT</li>
                                     <li>Player's Handbook = PHB</li>
                                     <li>Strixhaven: A Curriculum of Chaos = SACOC</li>
+                                    <li>Spelljammer: Adventures in Space = SAIS</li>
                                     <li>Swordcoast Adventurer's Guide = SCAG</li>
                                     <li>Tasha's Cauldron of Everything = TCoE</li>
                                     <li>Tomb of Annihilation = ToA</li>
@@ -90,6 +91,7 @@ export default function PlayerOptions() {
                             <ul>
                                 <li>Aarakocra (EEPC+MotM) </li>
                                 <li>Aasimar (VGM+MotM)</li>
+                                <li>Autognome (SAIS)</li>
                                 <li>Bugbear (ERLW+MotM)</li>
                                 <li>Centaur (MOT+MotM)</li>
                                 <li>Changeling (ERLW+MotM)</li>
@@ -98,15 +100,17 @@ export default function PlayerOptions() {
                                 <li>Deep Gnome(MotM)</li>
                                 <li>Duergar(MotM)</li>
                                 <li>Eladrin(MotM)</li>
-                                <li>Elf (PHB+ERLW+EGW)</li>
+                                <li>Elf (PHB+ERLW+EGW+SAIS)</li>
                                 <li>Fairy (WBWL+MotM)</li>
                                 <li>Firbolg (VGM+MotM)</li>
                                 <li>Genasi (EEPC+MotM)</li>
+                                <li>Giff (SAIS)</li>
                                 <li>Githyanki(MotM)</li>
                                 <li>Githzerai(MotM)</li>
                                 <li>Gnome (PHB+ERLW)</li>
                                 <li>Goblin (ERLW+MotM)</li>
                                 <li>Goliath (VGM+MotM)</li>
+                                <li>Hadozee (SAIS)</li>
                                 <li>Half-Elf (PHB+ERLW)</li>
                                 <li>Half-Orc (PHB+ERLW)</li>
                                 <li>Halfling (PHB+EGW+ERLW)</li>
@@ -116,39 +120,46 @@ export default function PlayerOptions() {
                                 <li>Kalashtar (ERLW)</li>
                                 <li>Kenku (VGM+MotM)</li>
                                 <li>Kobold (VGM+MotM)</li>
-                                <li>Lineages(VRG)</li>
+                                <li>Lineages (VRG)</li>
                                 <li>Lizardfolk (VGM+MotM)</li>
                                 <li>Minotaur (MOT+MotM)</li>
                                 <li>Orc (ERLW+MotM)</li>
                                 <li>Owlin (SACOC)</li>
+                                <li>Plasmoid (SAIS)</li>
                                 <li>Satyr (MOT+MotM)</li>
-                                <li>Sea Elf(MotM)</li>
-                                <li>Shadar-kai(MotM)</li>
+                                <li>Sea Elf (MotM)</li>
+                                <li>Shadar-kai (MotM)</li>
                                 <li>Shifter (ERLW+MotM)</li>
                                 <li>Tabaxi (VGM+MotM)</li>
-                                <li><a href='https://homebrewery.naturalcrit.com/share/W1GV_adXEtH8' target='_blank'>Tlakah(by Joshua Taylor)</a></li>
                                 <li>Tiefling (PHB+MTF)</li>
+                                <li>Thri-Kreen (SAIS)</li>
                                 <li>Tortle (TP+MotM)</li>
                                 <li>Triton (MOT+MotM)</li>
                                 <li>Warforged (ERLW)</li>
-                                <li>Yuan-ti(MotM)</li>
+                                <li>Yuan-ti (MotM)</li>
                                 <li>Yuan-ti Pureblood(VGM)</li>
                             </ul>
-                            <br/>
-                            <p className='text-bold'>UA-Content:</p>
-                            <ul>
-                                <li>Astral-Elf</li>
-                                <li>Autognome</li>
-                                <li>Giff</li>
-                                <li>Hadozee</li>
-                                <li>Plasmoid</li>
-                                <li>Thri-Kreen</li>
-                            </ul>
-                            <a href='https://1drv.ms/u/s!AhAlTgYDD1bR-HyKM_eUOwCHCjbR?e=SbcYFB' target='_blank'>Unearthed Arcana Archive</a>
                             <br/>
                             <p className='text-bold'>The Customized Origin Rules from TCoE ARE Allowed! If you want to<br/>
                             use the Custom Lineage Template talk to the DM FIRST!<br/>
                             With MotM introducing reworked traits for multiple races, Legacy Content is still allowed in this setting!</p>
+                            <br/>
+                            <details>
+                                <summary>Homebrew Races</summary>
+                                <p>These Races are very rare, but are still available for Players.</p>
+                                <ul>
+                                    <li>Cnidaran (Heliana's Guide to Monster Hunting/Ask If interested)</li>
+                                    <li>Cyclopian (Heliana's Guide to Monster Hunting/Ask If interested)</li>
+                                    <li>Gobboc (Heliana's Guide to Monster Hunting/Ask If interested)</li>
+                                    <li>Golynn (Heliana's Guide to Monster Hunting/Ask If interested)</li>
+                                    <li>Lotol (Heliana's Guide to Monster Hunting/Ask If interested)</li>
+                                    <li>Mycelian (Heliana's Guide to Monster Hunting/Ask If interested)</li>
+                                    <li>Ombrask (Heliana's Guide to Monster Hunting/Ask If interested)</li>
+                                    <li>Opteran (Heliana's Guide to Monster Hunting/Ask If interested)</li>
+                                    <li>Rakin (Heliana's Guide to Monster Hunting/Ask If interested)</li>
+                                    <li><a href='https://homebrewery.naturalcrit.com/share/W1GV_adXEtH8' target='_blank'>Tlakah(by Joshua Taylor)</a></li>
+                                </ul>
+                            </details>
                         </details>
 
                         <br/>
@@ -181,6 +192,7 @@ export default function PlayerOptions() {
                                         <li>Binder(<a href='https://www.drivethrurpg.com/product/318299/Complete-Binder' target='_blank'>Mage Hand Press</a>)</li>
                                         <li>Evolutionist(Crystalpunk/Ask if the book is available)</li>
                                         <li>Soulshaper(Crystalpunk/Ask if the book is available)</li>
+                                        <li>Tamer(Heliana's Guide to Monster Hunting/Ask If interested)</li>
                                     </ul>
                                 </li>
                             </ul>
@@ -204,6 +216,7 @@ export default function PlayerOptions() {
                                 <li><span className='text-bold'>SACOC: </span>Lorehold Student, Prismari Student, Quandrix Student,
                                 <br/>Silverquill Student, Witherbloom Student
                                 </li>
+                                <li><span className='text-bold'>SAIS:</span>Astral Drifter, Wildspacer</li>
                                 <li><span className='text-bold'>SCAG: </span>City Watch/Investigator, Courtier, Far Traveler,
                                 <br/>Inheritor, Mercenary Veteran, Urban Bounty Hunter
                                 </li>

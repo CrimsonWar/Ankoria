@@ -62,6 +62,7 @@ export default function PlayerOptions() {
                                 <h3>Books</h3>
                                 <ul>
                                     <li>Aquisitions Incorperated = AI</li>
+                                    <li>Dragonlance: SHadow of the Dragon Queen = DSDQ</li>
                                     <li>Eberron: Rising from the Last War = ERLW</li>
                                     <li>Elemental Evil Player's Companion = EEPC</li>
                                     <li>Explorer's Guide to Wildemount = EGW</li>
@@ -118,6 +119,7 @@ export default function PlayerOptions() {
                                 <li>Hobgoblin (ERLW+MotM)</li>
                                 <li>Human (PHB+ERLW)</li>
                                 <li>Kalashtar (ERLW)</li>
+                                <li>Kender (DSDQ)</li>
                                 <li>Kenku (VGM+MotM)</li>
                                 <li>Kobold (VGM+MotM)</li>
                                 <li>Lineages (VRG)</li>
@@ -183,7 +185,7 @@ export default function PlayerOptions() {
                                         <li>Warlock</li>
                                         <li>Wizard</li>
                                     </ul>
-                                    <span className='text-bold' >Subclasses from XGE, PHB, ERLW, FTD, MOT, EGW, VRG and TCoE are allowed.</span>
+                                    <span className='text-bold' >Subclasses from XGE, PHB, ERLW, FTD, MOT, EGW, DSDQ, VRG and TCoE are allowed.</span>
                                 </li>
                                 <li>Homebrew:<br/>
                                     <ul>
@@ -204,6 +206,7 @@ export default function PlayerOptions() {
                             <br/>
                             <ul>
                                 <li><span className='text-bold'>AI: </span>Failed Merchant, Gambler, Plaintiff</li>
+                                <li><span className='text-bold'>DSDQ: </span>Knight of Solamnia, Mage of High Sorcery</li>
                                 <li><span className='text-bold'>ERLW: </span>House Agent (In this setting Agent of a Dragonmarked Clan)</li>
                                 <li><span className='text-bold'>EGW: </span>Grinner, Revelry Pirate(Sailor), Volstrucker Agent</li>
                                 <li><span className='text-bold'>GOS: </span>Fisher, Marine, Shipwright, Smuggler</li>
